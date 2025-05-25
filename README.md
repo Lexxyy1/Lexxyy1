@@ -3,6 +3,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects. 
 
+```txt
+Name: "Alex Yusomo"
+Gender : "Male"
+Status: "student"
+Hobby: "dreaming"
+```
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
@@ -22,16 +29,16 @@ Thanks for stalking brother! 🚀
 <!--START_SECTION:waka-->
 
 ```txt
-Javascript                      █████████████▒░░░░░░░░░░░   53.04 %
-Python                          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Html                            █████████████▒░░░░░░░░░░░   53.04 %
-Css                             █████████████▒░░░░░░░░░░░   53.04 %
+JavaScript: [■■■■■■■■□□] (75%)
+Python    : [■■■■■■■■□□] (75%)
+HTML      : [■■■■■■■■□□] (75%)
+CSS       : [■■■■■■■■□□] (75%)                    
 ```
 
 Contact me :
 
 <p align="center">
-  <a href="https://t.me/lexxtatc">
+  <a href="https://t.me/lexxyatc">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:yusomoalex@gmail.com">
