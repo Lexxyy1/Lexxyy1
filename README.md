@@ -28,6 +28,8 @@ Thanks for stalking brother! 🚀
 
 <!--START_SECTION:waka-->
 
+<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
+
 ```txt
 JavaScript : [■■■■■■■■□□] (75%)
 Python     : [■■■■■■■■□□] (75%)
@@ -49,8 +51,3 @@ Contact me :
   </a>
 </p>
 
-<!--END_SECTION:waka-->
-
-<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
-
-###
