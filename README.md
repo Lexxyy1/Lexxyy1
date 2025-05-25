@@ -31,8 +31,8 @@ Hobby  : Dreaming
 ```txt
 JavaScript : [■■■■■■■■□□] (75%)
 Python     : [■■■■■■■■□□] (75%)
-HTML       : [■■■■■■■■□□] (75%)
-CSS        : [■■■■■■■■□□] (75%)                    
+Html       : [■■■■■■■■□□] (75%)
+Css        : [■■■■■■■■□□] (75%)                    
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
