@@ -1,5 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Alex! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
-
+### Hello, I'm Alex!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects. 
 
@@ -12,7 +11,7 @@ Hobby  : Dreaming
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
+### Tech Stack
 
 
 <p align="center">
@@ -37,7 +36,7 @@ Css        : [■■■■■■■■□□] (75%)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-Contact me :
+### Contact Me 
 
 <p align="center">
   <a href="https://t.me/lexxyatc">
