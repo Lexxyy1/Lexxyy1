@@ -24,6 +24,8 @@ Hobby  : Dreaming
 
 <!--START_SECTION:waka-->
 
+###
+
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
 ###
